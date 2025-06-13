@@ -18,11 +18,11 @@ Set up monitoring for a cloud-based application using AWS CloudWatch and configu
 - **Action:** Email alert via SNS
 
 ## 📊 Dashboard Preview
-![Dashboard](./dashboard.png)
+![Dashboard](./screenshots/dashboard.png)
 
 ## 🚨 Alarm Configuration
-![Alarm](./alarm.png)
+![Alarm](./screenshots/alarm.png)
 
 ## 📩 Email Notification
-![Email](./alert-email.png)
+![Email](./screenshots/alert-email.png)
 
